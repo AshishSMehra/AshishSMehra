@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **LLMs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshishSMehra/AshishSMehra](https://github.com/AshishSMehra/AshishSMehra)
-
 - 💬 Ask me about **Python, ML, DL, GenAI, MLOps**
 
 - 📫 How to reach me **mehra.ashish1906@gmail.com**
@@ -19,16 +17,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/ashishsmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ashishsmehra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-singh-mehra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-singh-mehra/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27392191/ashish-mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27392191/ashish-mehra" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ashishmehra1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ashishmehra1007" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/omegamehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/omegamehra" height="30" width="40" /></a>
+<a href="https://codepen.io/ashishsmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ashishsmehra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-singh-mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-singh-mehra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ashish-mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashish-mehra" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ashishsmehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ashishsmehra" height="30" width="40" /></a>
+<a href="https://kaggle.com/omegamehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="omegamehra" height="30" width="40" /></a>
 <a href="https://instagram.com/aashishmehra99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashishmehra99" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sashu9861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sashu9861" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ashishmehra1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ashishmehra1007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ashishmehra1906/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashishmehra1906/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mehraashpxuw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mehraashpxuw/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sashu9861" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sashu9861" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashishmehra1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishmehra1007" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashishmehra1906/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishmehra1906/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mehraashpxuw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mehraashpxuw/" height="30" width="40" /></a>
+<a href="https://discord.gg/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
